@@ -36,7 +36,7 @@ Cada dia de trabalho segue o mesmo ciclo usado num SOC real:
 
 | Data | Resumo |
 |---|---|
-| [2026-08-28](logs/2026-08-28.md) | Dia 1: triagem e fecho de 3 incidentes de brute-force RDP no Sentinel |
+| [2026-08-28](logs/2026-08-28.md) | Dia 1: triagem e fecho de 3 incidentes de brute-force RDP no Sentinel; inicio da construcao do honeypot T-Pot na Oracle Cloud (rede configurada, script de retry a correr devido a falta de capacidade Always Free) |
 
 ## Tecnologias
 
